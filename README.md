@@ -9,21 +9,27 @@
 
 - Step 1:- Run the programe with "python3 easyrsa.py".
 
-![img2](https://i.imgur.com/pPRs1n3.png)
+![img1](https://i.imgur.com/pPRs1n3.png)
 
 - Step 2:- Enter "n".
 
+![img2](https://i.imgur.com/o20l0Kk.png)
 
 - Step 3:- Enter "p" and "q".
 
+![img1](https://i.imgur.com/o20l0Kk.png)
 
 - Step 4:- Enter "e".
 
+![img1](https://i.imgur.com/o20l0Kk.png)
 
 - Step 5:- Place your Cipher Text.
 
+![img1](https://i.imgur.com/o20l0Kk.png)
 
 - Get Plain Text.
+
+![img1](https://i.imgur.com/o20l0Kk.png)
 
 ## Contribution
 
