@@ -17,8 +17,10 @@
 
 ## How to use
 
-- Step 1:- Run the programe with:
+- Step 1:- Run the programe
+	```
 	python3 easyrsa.py
+	```
 
 ![img1](https://i.imgur.com/pPRs1n3.png)
 
