@@ -7,13 +7,13 @@
 
 ## Installation
 
-- Step 1:- Clone this repository to your computer with "git clone https://github.com/WatashiwaSid/easy-rsa.git"
+- Step 1:- Clone this repository to your computer with - "git clone https://github.com/WatashiwaSid/easy-rsa.git"
 
-- Step 2:- Move to the installation folder with, "cd easyrsa"
+- Step 2:- Move to the installation folder with - "cd easyrsa"
 
-- Step3:- Install requirements with, "pip install -r requirements.txt"
+- Step3:- Install requirements with - "pip install -r requirements.txt"
 
-- Step4:- Run with Python3, "python3 easyrsa.py"
+- Step4:- Run with Python3 - "python3 easyrsa.py"
 
 ## How to use
 
@@ -49,4 +49,4 @@
 
 ## License
 
-#### [Click here to read License.](https://github.com/yatocodes/python-qr-code/blob/master/LICENSE)
+#### [Click here to read License.](https://github.com/WatashiwaSid/easy-rsa/blob/main/LICENSE)
