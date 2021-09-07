@@ -9,7 +9,7 @@
 
 - Step 1:- Run the programe with "python3 easyrsa.py".
 
-![img2](https://imgur.com/wbBA7Wc.png)
+![img2](https://i.imgur.com/pPRs1n3.png)
 
 - Step 2:- Enter "n".
 
