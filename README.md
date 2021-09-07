@@ -8,22 +8,22 @@
 ## Installation
 
 - Step 1:- Clone this repository to your computer.
-```
+```git
 git clone https://github.com/WatashiwaSid/easy-rsa.git
 ```
 
 - Step 2:- Move to the installation folder. 
-```
+```linux
 cd easyrsa
 ```
 
 - Step3:- Install requirements.
-```
+```python
 pip install -r requirements.txt
 ```
 
 - Step4:- Run with Python3 
-```
+```python
 python3 easyrsa.py
 ```
 
