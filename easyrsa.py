@@ -1,4 +1,5 @@
 #pip install pycryptodome
+#import inverse function to calculate inverse module
 from Crypto.Util.number import inverse
 
 n = int(input("Enter 'n' : "))
