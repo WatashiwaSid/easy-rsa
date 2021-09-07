@@ -1,5 +1,5 @@
 # EASY-RSA [Python]
-## Simple RSA Decryption Tool made by [Siddhant N.](https://github.com/WatashiwaSid)
+## Simple RSA Decryption Tool made by [Siddhant N.](https://twitter.com/WatashiwaSid)
 
 ## About 
 #### It's a simple CLI based program that decrypts RSA Cipher Text, If "e" and "n" are known. 
@@ -17,19 +17,19 @@
 
 - Step 3:- Enter "p" and "q".
 
-![img1](https://i.imgur.com/o20l0Kk.png)
+![img3](https://i.imgur.com/4UEH6DW.png)
 
 - Step 4:- Enter "e".
 
-![img1](https://i.imgur.com/o20l0Kk.png)
+![img4](https://i.imgur.com/O1ZLKSZ.png)
 
 - Step 5:- Place your Cipher Text.
 
-![img1](https://i.imgur.com/o20l0Kk.png)
+![img5](https://i.imgur.com/JUxqdxA.png)
 
 - Get Plain Text.
 
-![img1](https://i.imgur.com/o20l0Kk.png)
+![img6](https://i.imgur.com/lzsjxgv.png)
 
 ## Contribution
 
