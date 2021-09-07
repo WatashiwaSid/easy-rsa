@@ -17,7 +17,8 @@
 
 ## How to use
 
-- Step 1:- Run the programe with "python3 easyrsa.py".
+- Step 1:- Run the programe with:
+	python3 easyrsa.py
 
 ![img1](https://i.imgur.com/pPRs1n3.png)
 
