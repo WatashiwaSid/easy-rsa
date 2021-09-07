@@ -5,6 +5,16 @@
 #### It's a simple CLI based program that decrypts RSA Cipher Text, If "e" and "n" are known. 
 
 
+## Installation
+
+- Step 1:- Clone this repository to your computer with "git clone https://github.com/WatashiwaSid/easy-rsa.git"
+
+- Step 2:- Move to the installation folder with, "cd easyrsa"
+
+- Step3:- Install requirements with, "pip install -r requirements.txt"
+
+- Step4:- Run with Python3, "python3 easyrsa.py"
+
 ## How to use
 
 - Step 1:- Run the programe with "python3 easyrsa.py".
